@@ -4,4 +4,5 @@
 
 Tools: Unity3D, Aseprite(painting)  
 Language: C#  
+Trello: https://trello.com/b/EoBVmLP9/just-time  
 Using: DateTime, Vector2.Lerp...
